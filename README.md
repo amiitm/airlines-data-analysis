@@ -13,13 +13,13 @@ CDH(Cloudera Distribution Hadoop), Cloudera's open source platform, is the most 
 
 ### Summary for the data
 
-![Alt text](public\screenshots\Screenshot5.png?raw=true)
+![Alt text](public/screenshots/Screenshot5.png?raw=true)
 
 ### User Interaction
 
-![Alt text](public\screenshots\Screenshot2.png?raw=true)
+![Alt text](public/screenshots/Screenshot2.png?raw=true)
 
 
 ### Example of query result
 
-![Alt text](public\screenshots\Screenshot9.png?raw=true)
+![Alt text](public/screenshots/Screenshot9.png?raw=true)
